@@ -2,7 +2,7 @@
 ---
 ## Links
 - Repo: https://github.com/Raj-Hunjan/car-images
-- Page:
+- Page: https://raj-hunjan.github.io/car-images/
 
 ## Code Review:
 - Had some trouble with uploading my files into a repo again so I just cloned it and I got it to work
