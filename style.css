@@ -1,0 +1,23 @@
+.container1 {
+    width: 90vw;
+    max-width: 1920px;
+    margin: auto;
+}
+
+.container2 {
+    width: 90vw;
+    max-width: 1024px;
+    margin: auto;
+}
+
+.container3 {
+    width: 90vw;
+    max-width: 500px;
+    margin: auto;
+}
+
+img {
+    display: block;
+    width: 100%;
+    margin: 3rem auto;
+  }
