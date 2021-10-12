@@ -1,4 +1,4 @@
-# car-images
+# Raster Images
 ---
 ## Links
 - Repo: https://github.com/Raj-Hunjan/car-images
